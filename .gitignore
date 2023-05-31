@@ -2,3 +2,6 @@ lab?/.terraform*
 lab?/terraform.*
 vars.auto.tfvars
 terraform.tfvars
+my-keypair.pem
+IPs.txt
+all-ips.txt
