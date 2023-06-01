@@ -5,3 +5,4 @@ terraform.tfvars
 my-keypair.pem
 IPs.txt
 all-ips.txt
+*Zone.Identifier
